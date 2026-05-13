@@ -1,0 +1,37 @@
+.br {
+    width: 1500px;
+}
+.escudos{
+    width: 35%;
+}
+.conteudo {
+    display: flex;
+    gap: 25px;
+}
+.pp{
+    text-align: center;
+}
+.ap{
+    text-align: center;
+}
+.sle{
+    width: 65%;
+    display: block;
+    margin: 0 auto;
+
+}
+.elenco{
+    text-align: center;
+}
+.pnl{
+    width: 1400px;
+    text-align: center;
+}
+.convo{
+    display: block;
+    margin: 0 auto;
+    width: 750px;  
+}
+.fim{
+    text-align: center;
+}
